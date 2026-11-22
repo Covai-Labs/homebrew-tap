@@ -14,13 +14,13 @@
 class Jobfoundry < Formula
   desc "Local-first AI resume tailor, job application tracker, and scoring core"
   homepage "https://github.com/Covai-Labs/JobFoundry"
-  version "0.10.0"
+  version "0.10.1"
   license "AGPL-3.0-only"
 
   on_macos do
     on_arm do
-      url "https://github.com/Covai-Labs/JobFoundry/releases/download/v0.10.0/jobfoundry-0.10.0-darwin-arm64.tar.gz"
-      sha256 "65865783f0e8fb67c6880a0a95014eb7088097545d7181af64359ebf05dd6ef1"
+      url "https://github.com/Covai-Labs/JobFoundry/releases/download/v0.10.1/jobfoundry-0.10.1-darwin-arm64.tar.gz"
+      sha256 "58f3d60e6c9acd04d6fd73f0f91e52a79ffff166c587956e23922f360c5d0739"
     end
   end
 
